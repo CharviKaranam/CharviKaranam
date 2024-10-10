@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning programming languages and coding 
 - 🌱 I’m currently pursuing my bachelor's in computer science from Andhra University
 - 💞️ I’m looking to collaborate on coding sessions
-
+- U can catch me on LinkedIn: https://www.linkedin.com/in/charvi-karanam-787358329/
 
 
 <!---
