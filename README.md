@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CharviKaranam
-- 💫 3x Hackathon winner 
+- 💫 4x Hackathon winner 
 - 👀 I’m interested in learning programming languages and coding 
 - 🌱 I’m currently pursuing my bachelor's in computer science from Andhra University
 - 💞️ I’m looking to collaborate on coding sessions
