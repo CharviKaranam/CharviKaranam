@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @CharviKaranam
-- 💫 4x Hackathon winner 
-- 👀 I’m interested in learning programming languages and coding 
-- 🌱 I’m currently pursuing my bachelor's in computer science from Andhra University
+- 💫 4x Hackathon winner
+- 🎙️ Public speaker
+- 👀 I’m interested in Data Science, AI/ML related fields 
+- 🌱 I’m currently pursuing my bachelor's in computer science
 - 💞️ I’m looking to collaborate on coding sessions
-- U can catch me on LinkedIn: https://www.linkedin.com/in/charvi-karanam-787358329/
+- U can catch me on LinkedIn: https://www.linkedin.com/in/charvi-karanam-787358329
 
 
 <!---
